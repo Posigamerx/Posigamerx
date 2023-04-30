@@ -1,7 +1,7 @@
 ## <h1 align ='center'> Hi 👋  I'm Azanda Ayomiposi <br> A Front-end Web Developer </h1>
 # 💫 About Me:
 <img align='right' alt ='coding' width='300' src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-🔭 I’m a Front_end Web Developer <br>🤝 I’m looking for help with your suggestions<br>🌱 I’m currently learning Back-end Web Development with node and monogodb<br>💬 Ask me about Front-end Web Development<br>⚡ Please follow <br>
+🔭 I’m a Front_end Web Developer <br>🤝 I’m looking forward to your suggestions<br>🌱 I’m currently learning Back-end Web Development with node and monogodb<br>💬 Ask me about Front-end Web Development<br>⚡ Please follow <br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Azanda Ayomiposi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Posidev_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayomiposi Azanda) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@WithPosi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Posidev_) 
